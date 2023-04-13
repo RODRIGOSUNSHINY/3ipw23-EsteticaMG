@@ -1,0 +1,41 @@
+font-family{
+	font-family: 'Exo', sans-serif;
+}
+
+
+body {
+	background-color: white;
+}
+.content {
+	width: 1200px;
+	margin: 0px;
+}
+
+header img,
+header nav{
+	float:left;
+}
+nav ul li {
+	display: inline-block;
+	padding: 50px;
+}
+.social{
+	padding: 40px;
+	float: right;
+}
+
+nav ul li a{
+	color:black;
+	text-decoration: none;
+}
+nav ul li a:hover{
+	text-decoration:underline;
+}
+.hover{
+	transition: 0.3;
+	opacity: 1;
+}
+.hover:hover{
+	transition: 0.3;
+	opacity: ;
+}
