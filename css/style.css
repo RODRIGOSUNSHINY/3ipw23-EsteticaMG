@@ -1,10 +1,8 @@
-font-family{
-	font-family: 'Exo', sans-serif;
-}
-
-
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,400;1,100&display=swap');
 body {
 	background-color: white;
+	font-family: 'Exo', sans-serif;
+	font-size: 20 px;
 }
 .content {
 	width: 1200px;
@@ -13,6 +11,7 @@ body {
 
 header img,
 header nav{
+
 	float:left;
 }
 nav ul li {
@@ -37,5 +36,11 @@ nav ul li a:hover{
 }
 .hover:hover{
 	transition: 0.3;
-	opacity: ;
+	opacity: 0.5;
+}
+.banner img{
+	width: 100%;
+	margin: 20px 0;
+	
+
 }
