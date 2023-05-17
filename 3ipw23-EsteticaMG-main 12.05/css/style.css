@@ -94,7 +94,7 @@ nav ul li a:hover {
 }
 .item{
     display:inline-block;
-    width: 33%;
+    width: 31%;
     padding: 1%;
     text-align: justify;
 }
@@ -109,4 +109,12 @@ nav ul li a:hover {
 }
 .item p{
     margin-bottom: 20px;
+}
+.depoimentos{
+    margin: 70px;
+}
+footer{
+    background-color: BLACK;
+    color:white;
+    padding:50px;
 }
