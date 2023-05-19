@@ -121,3 +121,25 @@ footer{
 .item h2{
     font-size: 40px;
 }
+footer input,footer textarea{
+    width: 250px;
+    height: 40px;
+    background: none;
+    border: none;
+    border-bottom: 2px solid white;
+    font: 20px;
+    color: white;
+}
+footer input[type="submit"]{
+    border:2px solid white;
+
+}
+footer ul li a{
+ color: white;
+ text-decoration:20px;
+}
+footer ul li{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
