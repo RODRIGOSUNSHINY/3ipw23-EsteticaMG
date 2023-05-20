@@ -65,7 +65,7 @@ nav ul li a:hover {
     display: inline-block;
 }
 .servicos {
-    background:#a8c3ed;
+    background:#e7e7e7;
     padding: 70px 0;
     margin:50px 0 ;
 }
@@ -96,7 +96,7 @@ nav ul li a:hover {
     display:inline-block;
     width: 31%;
     padding: 1%;
-    text-align: justify;
+    text-align: center;
 }
 .item img{
     width: 100;
@@ -120,6 +120,7 @@ footer{
 }
 .item h2{
     font-size: 40px;
+    text-align: center;
 }
 footer input,footer textarea{
     width: 250px;
@@ -142,4 +143,12 @@ footer ul li{
     text-align: center;
     padding: 10px;
     font-size: 20px;
+}
+.social ul li a {
+    color: white;
+}
+.social ul li {
+    background-color: black;
+    padding: 5px 10px;
+    margin: 5px;
 }
