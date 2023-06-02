@@ -162,3 +162,11 @@ footer ul li{
     margin: auto;
     text-align: left;
 }
+.sidebar{
+    width: 165px;
+    font-size: 40px;
+    border-left: 5px solid rgb(255, 208, 0);
+    line-height: 40px;
+    font-weight: bold;
+    padding: 0 38px;
+}
