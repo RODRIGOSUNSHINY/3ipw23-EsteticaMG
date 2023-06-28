@@ -185,3 +185,13 @@ footer ul li{
     margin: 20px;
     background-repeat: no-repeat;
 }
+.contato input, .contato textarea{
+    width: 100%;
+    max-width: 350px;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: #d9d9d9;
+
+}
